@@ -20,7 +20,8 @@ function showPokemonGen(gen){
         5:[494, 649],
         6:[650, 721],
         7:[722, 809],
-        8:[810, 905]
+        8:[810, 905],
+        9:[906, 1008]
     };
 
     const pokemonGenDefault = [1, 151];
@@ -36,7 +37,7 @@ let pokemonGeneration = showPokemonGen(generationshow)
 
 let arrowRight = document.getElementById('arrow-right').addEventListener('click', e=>{
 
-    if (generationshow < 8){
+    if (generationshow < 9){
         modalSearch.innerHTML = '';
         generationshow += 1
         pokemonGeneration = showPokemonGen(generationshow)
