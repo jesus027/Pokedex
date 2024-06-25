@@ -17,8 +17,8 @@ El proyecto Pokedex es una aplicación web que permite a los usuarios explorar y
 ### Primeros Pasos:
 
 - Clonar el repositorio: `git clone https://github.com/jesus027/Pokedex.git`
-- Iniciar el servidor de desarrollo: ejecutar en servidor local el archivo `index.html`
+- Iniciar el servidor de desarrollo: ejecutar en servidor local el archivo [index.html]("./index.html")
 
 ### Vista previa:
 
-Puede ver una vista previa de la aplicación en https://pokedex-jade-seven.vercel.app.
+Puede ver una vista previa de la aplicación [aquí](https://pokedex-jade-seven.vercel.app)
